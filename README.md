@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gegenyrichard
-- 👀 I’m interested in OpenCart Dev.
+- 👀 I’m an OpenCart Dev.
 - 📫 How to reach me https://www.renovatiomarketing.hu
 
 <!---
